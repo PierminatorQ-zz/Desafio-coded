@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.titulo_tarea{
+    font-size:1.2em;
+}
+
+.list-group-item+.list-group-item {
+    border-top-width: 1px;
+}
